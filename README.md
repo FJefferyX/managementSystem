@@ -1,2 +1,0 @@
-# managementSystem
-a management system
